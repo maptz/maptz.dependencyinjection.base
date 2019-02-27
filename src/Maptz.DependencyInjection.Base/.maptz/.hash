@@ -1,0 +1,11 @@
+
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.dependencyinjection.base\src\Maptz.DependencyInjection.Base\Concepts\IChildServiceProvider.cs-db71c9eaea35990c68d2a711813677d2
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.dependencyinjection.base\src\Maptz.DependencyInjection.Base\Concepts\TypeRegistration\ITypeRegistrationInfo.cs-4eeb17ed122755aa8f663c198a2a3bd7
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.dependencyinjection.base\src\Maptz.DependencyInjection.Base\Concepts\TypeRegistration\ITypeRegistrationRepository.cs-58c0ef55e818c88f8c6e5d4a568bae0e
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.dependencyinjection.base\src\Maptz.DependencyInjection.Base\Implementations\ChildServiceProvider.cs-f9e93f68a6b8d6a03dd9fd34dbd1fc7a
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.dependencyinjection.base\src\Maptz.DependencyInjection.Base\Implementations\IServiceCollectionExtensions.cs-58ba4baf0d65b0632b1d6f6a2443abe2
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.dependencyinjection.base\src\Maptz.DependencyInjection.Base\Implementations\TypeRegistration\TypeRegistrationInfo.cs-bba7d01c52bfb23ceaa1e02b16160d43
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.dependencyinjection.base\src\Maptz.DependencyInjection.Base\Implementations\TypeRegistration\TypeRegistrationRepository.cs-fda6e3533064bc5ff80df69ce0d703bb
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.dependencyinjection.base\src\Maptz.DependencyInjection.Base\Implementations\TypeRegistration\TypeRegistrationRepositorySettings.cs-a1cdd8b5a39fb004505a048f9079c2b9
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.dependencyinjection.base\src\Maptz.DependencyInjection.Base\Maptz.DependencyInjection.Base.csproj-ebe85f8294a4316367df8a0260412055
+
